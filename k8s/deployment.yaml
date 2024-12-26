@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: express-app
-        image: ghcr.io/hamdichw/cloudtaskerbackendserver:latest
+        image: ghcr.io/hamdi-chtiwi-devops/cloudtaskerbackendserver:latest
         ports:
         - containerPort: 8800
         resources:
